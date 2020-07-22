@@ -1,0 +1,69 @@
+
+body{
+    background-color:rgb(255, 0, 0);
+    background-image: url(https://media1.tenor.com/images/7ae01bef2ff539cb85d1bd2f1d53fe30/tenor.gif?itemid=7970514);
+}
+
+h5{
+    text-align: center;
+    font-size: 50px;
+    color: red;
+}
+
+
+h3 {
+text-align: center;
+font-size: 50px;
+text-align: center;
+border: 2px dashed red;
+color: red;
+border-radius: 6px;
+}
+
+
+
+li{
+    text-align: center;
+    font-size: 50px;
+    color: red;
+    list-style: none;
+    border: 5px dashed red;    
+   
+    
+
+}
+
+
+.form {
+    padding: 30px;
+    width: 350px;
+    border: 1px dashed #f00606;
+    border-radius: 6px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #f00606;
+    text-align: center;
+    
+    
+}
+    
+
+#txtTodo{
+    font-size: 30px;
+    font-family: 'Gill Sans';
+    padding: 5px 10px;
+
+}
+
+#btnAdd{
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Gill Sans';
+    padding: 5px 10px;
+    padding: 5px 10px;
+    background-color: blue;
+    color: red;
+    
+}
+
+
